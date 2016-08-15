@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+body,div,ul,li,img,input{ margin:0; padding:0;}
+li{ list-style:none;}
+img{ border:0 none; vertical-align:baseline;}
+.clearfix{ *zoom:1;}
+.clearfix:after{ content:"."; height:0; clear:both; visibility:hidden; display:block;}
+
+.screen{ width:420px; height:93px; margin:0 auto;}
+.screen input{ width:354px; height:64px; background:#cd2727; border-radius:9px; margin:24px 33px 5px 33px; color:#fff; font-size:26px; text-align:right;}
+.button{ width:365px; height:307px; margin:0 auto;}
+.button input{ float:left; width:53px; height:52px; background:#8d7c7c; border-radius:8px; margin:10px; color:#fff; font-size:20px;}
